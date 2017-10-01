@@ -7,4 +7,4 @@
  */
 
 
-phpinfo();
+echo 1;
